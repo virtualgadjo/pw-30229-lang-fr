@@ -1,6 +1,6 @@
 # Traduction française de l'admin de processwire 3.0.229
 
-##complète pour pw 3.0.230 aussi
+## complète pour pw 3.0.230 aussi
 
 Traduction complète de l'admin de ProcessWire
 
